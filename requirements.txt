@@ -1,0 +1,13 @@
+ai-data-intelligence-platform/
+│
+├── .venv/
+├── data/
+├── docs/
+├── models/
+├── notebooks/
+├── src/
+├── tests/
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
